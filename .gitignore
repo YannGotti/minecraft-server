@@ -1,0 +1,11 @@
+
+
+plugins/bStats
+plugins/dynmap
+plugins/spark
+plugins/.paper-remapped
+
+libraries
+cache
+logs
+versions
